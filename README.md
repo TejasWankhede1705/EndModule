@@ -1,6 +1,35 @@
 # EndModule
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+
+
+
+
+
+
+
+
+
+
+
+-----
+
 Bash Shell Script to print half pyramid using *
 *
 * *
